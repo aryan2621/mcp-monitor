@@ -6,7 +6,7 @@ import react from "@vitejs/plugin-react";
 import { defineConfig } from "vite";
 
 const root = path.dirname(fileURLToPath(import.meta.url));
-const basePath = "/mcp-moniter";
+const basePath = "/mcp-monitor";
 
 function redirectBareBase() {
   const redirect = (

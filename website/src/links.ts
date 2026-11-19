@@ -1,8 +1,8 @@
 export const LINKS = {
   dashboard: "https://mcp-moniter.vercel.app/",
-  github: "https://github.com/aryan2621/mcp-moniter",
-  userGuide: "https://github.com/aryan2621/mcp-moniter/blob/main/USER.md",
-  releases: "https://github.com/aryan2621/mcp-moniter/releases",
+  github: "https://github.com/aryan2621/mcp-monitor",
+  userGuide: "https://github.com/aryan2621/mcp-monitor/blob/main/USER.md",
+  releases: "https://github.com/aryan2621/mcp-monitor/releases",
   npm: "https://www.npmjs.com/package/mcp-monitor-sdk",
   npmLocal: "https://www.npmjs.com/package/mcp-monitor-local-sdk",
   pypi: "https://pypi.org/project/mcp-monitor-sdk/",
