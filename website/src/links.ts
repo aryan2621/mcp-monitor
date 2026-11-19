@@ -1,5 +1,5 @@
 export const LINKS = {
-  dashboard: "https://mcp-moniter.vercel.app/",
+  dashboard: "https://mcp-monitor.vercel.app/",
   github: "https://github.com/aryan2621/mcp-monitor",
   userGuide: "https://github.com/aryan2621/mcp-monitor/blob/main/USER.md",
   releases: "https://github.com/aryan2621/mcp-monitor/releases",

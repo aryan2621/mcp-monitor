@@ -10,4 +10,4 @@ npm install mcp-monitor-local-sdk
 pip install mcp-monitor-local-sdk
 ```
 
-This is not the hosted product at [https://mcp-moniter.vercel.app/](https://mcp-moniter.vercel.app/). Do not use an API key here.
+This is not the hosted product at [https://mcp-monitor.vercel.app/](https://mcp-monitor.vercel.app/). Do not use an API key here.

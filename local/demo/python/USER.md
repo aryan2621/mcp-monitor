@@ -1,6 +1,6 @@
 # Self-host Python demos — user guide
 
-Start the local API and dashboard, export `MCP_MONITOR_SECRET` to the same instance secret, then run a demo. Tool calls show up in the local UI. These demos do not send data to [https://mcp-moniter.vercel.app/](https://mcp-moniter.vercel.app/).
+Start the local API and dashboard, export `MCP_MONITOR_SECRET` to the same instance secret, then run a demo. Tool calls show up in the local UI. These demos do not send data to [https://mcp-monitor.vercel.app/](https://mcp-monitor.vercel.app/).
 
 ```bash
 cd local/demo/python
