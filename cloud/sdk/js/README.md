@@ -6,7 +6,7 @@ Repo copies: [USER.md](USER.md) · [DEV.md](DEV.md)
 
 ## User guide
 
-Create a server and API key at [https://mcp-moniter.vercel.app/](https://mcp-moniter.vercel.app/). Wrap your MCP server with this package. Tool-call metrics (name, duration, success/error) are batched and sent to the hosted API. They are not application logs. Open the same dashboard to see metrics and analytics for that key’s server.
+Create a server and API key at [https://mcp-monitor.vercel.app/](https://mcp-monitor.vercel.app/). Wrap your MCP server with this package. Tool-call metrics (name, duration, success/error) are batched and sent to the hosted API. They are not application logs. Open the same dashboard to see metrics and analytics for that key’s server.
 
 ```bash
 npm install mcp-monitor-sdk
